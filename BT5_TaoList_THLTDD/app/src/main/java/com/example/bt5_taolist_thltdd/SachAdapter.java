@@ -30,7 +30,6 @@ public class SachAdapter extends BaseAdapter {
 
     @Override
     public Object getItem(int i) {
-
         return null;
     }
 
@@ -69,7 +68,6 @@ public class SachAdapter extends BaseAdapter {
         holder.txtTen.setText(sach.getTen());
         holder.txtTacGia.setText(sach.getTacGia());
         holder.imgHinh.setImageResource(sach.getHinh());
-
         return view;
     }
 }

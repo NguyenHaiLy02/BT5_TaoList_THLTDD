@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/BT5_TaoList_THLTDD/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.156" />
+        <entry key="..\:/BT5_TaoList_THLTDD/app/src/main/res/drawable/background_dong.xml" value="0.1355" />
+        <entry key="..\:/BT5_TaoList_THLTDD/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.1325" />
+        <entry key="..\:/BT5_TaoList_THLTDD/app/src/main/res/drawable/round_border.xml" value="0.1355" />
         <entry key="..\:/BT5_TaoList_THLTDD/app/src/main/res/layout/activity_2.xml" value="0.1796875" />
         <entry key="..\:/BT5_TaoList_THLTDD/app/src/main/res/layout/activity_adapter.xml" value="0.1796875" />
         <entry key="..\:/BT5_TaoList_THLTDD/app/src/main/res/layout/activity_main.xml" value="0.1" />

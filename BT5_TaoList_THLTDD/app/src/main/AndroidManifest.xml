@@ -14,6 +14,9 @@
         android:theme="@style/Theme.BT5_TaoList_THLTDD"
         tools:targetApi="31">
         <activity
+            android:name=".Activity2"
+            android:exported="false" />
+        <activity
             android:name=".Adapter"
             android:exported="false" />
         <activity
